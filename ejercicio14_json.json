@@ -1,0 +1,17 @@
+{
+   "Marca": "adidas",
+   "Talle": "35, 36, 37, 38, 39, 40",
+   "Tipo": "unisex",
+   "Colores": "blanco, azul, rosa, marr\u00f3n, negro",
+   "Cordones": "estampados con motivos en gris",
+   "Disponibles": "20 pares",
+   "Disponibilidad x/talle": {
+      "t35": 2,
+      "t36": 3,
+      "t37": 4,
+      "t38": 3,
+      "t39": 4,
+      "t40": 4
+   },
+   "Tienda web": "todos los modelos en vista"
+}
